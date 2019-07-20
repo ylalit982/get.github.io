@@ -1,0 +1,189 @@
+/* navbar css start */
+
+.adsense_container {
+    margin-top: 70px;
+    border: 1px solid;
+    height: auto;
+   
+}
+.first_adsense_div{
+height: 100px;
+width: 280px;
+border: 1px solid;
+
+}
+.main_adsense{
+   width: 600px;
+    border: 1px solid;
+    height: 100px;
+    margin-left: 300px;
+    margin-bottom: 0px;
+    margin-top:80px;
+    
+}
+.adsense-two{
+    float: right;
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    margin-left:30px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    border: 1px solid  #ccc;
+  }
+
+  /* media query css start */
+  @media screen and (max-width: 600px) {
+.topnav a, .topnav input[type=text] {
+      float: none;
+      display: block;
+      text-align: left;
+      width: 100%;
+      margin: 0;
+      padding: 14px;
+    }
+.topnav input[type=text] {
+      border: 1px solid #ccc;
+    }
+  }
+  /* media query css end */
+
+/* navbar css end */
+
+
+
+
+/* main containt css start */
+
+
+.custom_navbar_css{
+    box-shadow: 3px 1px 5px;
+}
+/* side bar section css code start */
+.container-row {
+    margin: 0px;
+    margin-top: 9px;
+}
+#myMenu { 
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    height: auto;
+    width: 160px;
+    z-index: 1;
+/*     background-color: #111; /* Black */ 
+    overflow-x: hidden; /* Disable horizontal scroll */
+  }
+#myMenu li a {
+    padding: 12px;
+    text-decoration: none;
+    color: black;
+    display: block;
+    
+  
+}
+  
+#myMenu li a:hover {
+    background-color: #eee;
+ }
+  
+
+.coloumn-rows-one {
+    margin-top: 20px;
+    height: auto;
+    margin-left: 0px;
+    /* background-image: linear-gradient(to right, green,pink); */
+   
+}
+.img-one {
+    border-left: thick solid blue;
+    float: left;
+}
+.img{
+    width: 45rem;
+    border: 1px solid;
+    height: auto;
+}
+.user-info{
+    list-style-type: none;
+    border-left: thick solid black;
+    
+
+}
+
+.user-info li {
+    
+   
+}
+
+
+.coloumn-rows-two {
+    height: auto;
+    margin-left: 0;
+    border: 1px solid;
+   
+}
+
+/* question_answer_div question_answer_main_div */
+.question_answer_main_div{
+    margin-top: 10px;  
+    margin: 0px;
+    padding: 0px;
+    width: 750px;
+    border: 1px solid;
+    overflow-x: auto;
+    
+}
+
+.question_answer_div {
+    margin-left: 10px;
+    width: 600px;
+    margin-top: 10px;
+      margin: 0px;
+    padding: 0px;
+
+}
+
+/* question_answer_div question_answer_main_div end */
+
+/* side bar section css code end */
+
+
+
+/* main containt css end */
+
+
+/*FOOTER CSS CODE START*/
+
+
+
+
+/*FOOTER CSS CODE END*/

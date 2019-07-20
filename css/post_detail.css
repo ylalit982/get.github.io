@@ -1,0 +1,121 @@
+/* main containt css start */
+
+.custom_navbar_css{
+    box-shadow: 3px 1px 5px;
+}
+
+/* All adsense css code start */
+
+.adsense_one{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 55px;
+}
+.adsense_two{
+   border: 1px solid;
+    width: 620px;
+    height: 100px;
+    margin-left:170px;    
+}
+
+.adsense_center {
+    border: 1px solid;
+    width: 620px;
+    height: 100px;
+    margin-left:290px;    
+}
+
+/* table css start */
+
+.table-one{
+    border: 1px solid;
+    width: 100%;
+    margin-top: 10px; 
+}
+
+.table_title{
+    border-left: 6px solid red;
+    background-color:#f2f2f2;
+    font-family: 'Roboto Slab', serif;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+    text-align: justify;
+}
+
+.child_title{
+    background-color: #f2f2f2;
+    text-align: justify;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.table-two{
+    /* border: 1px solid; */
+    margin-top: 20px;
+    
+} 
+
+.table-two_th th{
+    background-image: linear-gradient(to left,#ffcc80,#ffff00);
+    font-family: 'Roboto Slab', serif;
+}
+
+.table-two_td{
+    background-color: #ffe0cc;
+}
+
+
+
+
+
+
+
+
+
+.table-three{
+    margin-top: 20px; 
+}
+/* table css end */
+
+/* All adsense css code end */
+
+
+
+.custom_container_div_one{
+    border: 1px solid;
+}
+/* Table css code start */
+.table{
+    margin-left: 70px; 
+    float: center;
+}
+/* Table css code end */
+
+/* main containt css end */
+
+
+/*FOOTER CSS CODE START*/
+.custom_footer_div_class{
+   margin-top: 50px; 
+    height: 40px;
+    padding: 5px;
+    color: white;
+    
+}
+.text-one li{
+    display: inline;
+    color : white;
+    text-decoration: none;
+    display: inline-block;
+}
+.text-one a {
+    color:#FFFF;
+    margin: 0px;
+   margin-left: 100px;
+    position: relative;
+    float: right;
+    
+}
+
+
+
+/*FOOTER CSS CODE END*/

@@ -1,0 +1,61 @@
+/*#one{
+	border: 1px solid green;
+}
+font-family: 'Karla', sans-serif;
+*/
+#th h4 {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+}
+
+/*#th{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+
+background-image: linear-gradient(#F5F5DC,#7FFFD4,#a864ed);
+}*/
+
+.adsense-td{
+	background-color: white;
+}
+
+.th{
+
+	background-image: linear-gradient(#F5F5DC,#7FFFD4,#a864ed);
+
+}
+
+.td{
+	font-family: 'Karla', sans-serif;
+	font-size: 15px;
+	letter-spacing: 0.7px;
+}
+
+.td p {
+
+	font-family: 'Titillium Web', sans-serif;
+	
+
+}
+
+#ul{
+	/*background-color:lightblue;*/
+	display: flex;
+	justify-content: space-around;
+	/*color: #c36cbb;*/
+	font-weight: bold;
+	background-image: linear-gradient(#F5F5DC,#7FFFD4,#a864ed);
+	list-style: none;
+	border-left: 7px solid #c36cbb;
+	padding-left: 20px; 
+}
+
+.block-td{
+	background-image: linear-gradient(#64eda8,#F5F5DC);
+	letter-spacing: 1px;
+	/*color: #c36cbb;*/
+	font-weight: bold;
+}
+
+
+

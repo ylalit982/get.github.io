@@ -1,0 +1,38 @@
+/* main containt css start */
+
+.custom_navbar_css{
+    box-shadow: 3px 1px 5px;
+}
+/* side bar section css code start */
+.container-row {
+    margin: 0px;
+    margin-top: 70px;
+}
+
+.adsense_container_div {
+    margin-top: 60px;
+}
+
+.container-rows-one {
+    background-image: linear-gradient(to right, white,red);
+}
+
+.container-rows-two {
+    margin-left: 8px;
+    background-image: linear-gradient(to right, green,yellow);
+}
+
+
+/* side bar section css code end */
+
+
+
+/* main containt css end */
+
+
+/*FOOTER CSS CODE START*/
+
+
+
+
+/*FOOTER CSS CODE END*/

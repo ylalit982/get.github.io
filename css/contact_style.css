@@ -1,0 +1,39 @@
+/* main containt css start */
+
+.custom_navbar_css{
+    box-shadow: 3px 1px 5px;
+}
+
+.custom_jumbotron {
+    height: 583px;
+    background-image: linear-gradient(to right,white,grey);
+}
+
+/* main containt css end */
+
+
+/*FOOTER CSS CODE START*/
+.custom_footer_div_class{
+    height: 40px;
+    padding: 5px;
+    color: white;
+    position: fixed;
+}
+.text-one li{
+    display: inline;
+    color : white;
+    text-decoration: none;
+    display: inline-block;
+}
+.text-one a {
+    color:#FFFF;
+    margin: 0px;
+   margin-left: 100px;
+    position: relative;
+    float: right;
+    
+}
+
+
+
+/*FOOTER CSS CODE END*/

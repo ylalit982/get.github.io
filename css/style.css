@@ -1,0 +1,681 @@
+/* index.html css start */
+/* font-family: 'Source Sans Pro', sans-serif; */
+
+
+
+/* font-family: 'Source Sans Pro', sans-serif;
+
+font-family: 'DM Serif Display', serif; */
+
+
+
+/*font-family: 'Ubuntu', sans-serif;*/
+
+/* navbar  */
+.custom_navbar_css {
+        box-shadow: 5px 3px 11px grey;
+        font-family: 'Source Sans Pro', sans-serif;
+}
+.navbar-brand{
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 20px; 
+}
+
+/* navbar css code end */
+
+
+/*Header css*/
+
+.header_container {
+        margin-top:65px;
+        border: 1px solid blue;
+        text-align: center;
+        height: 140px;
+        width: 14p0x;
+}
+
+/* .adsense {
+        border: 1px solid black;
+        height: 140px;
+        width: 700px;
+        margin-left: 170px;
+} */
+
+/*header css end*/
+
+/*Containt section start*/
+.container-third{
+        height: 95vh;
+}
+.container-second{
+        height: 110vh;
+}
+.container-first{
+        height: 130vh;
+}
+
+
+.Containt_container {
+        margin-top: 10px;
+        box-shadow: 0px 0px 6px;
+        height: auto;
+        /* background-color: #007BFF; */
+        
+}
+
+/* .Containt_row {
+        
+       background-color: #007BFF;
+        
+} */
+
+.Containt-first {
+        text-align: center;
+        height: auto;
+        /* overflow: auto; */
+        
+}
+
+
+.Containt-second {
+    text-align: center;
+    /*border: 1px dotted black;*/
+    height: auto;
+    /* overflow: auto; */
+}
+.search_box {
+    text-align:center;
+    margin-top: 5px;
+    padding-bottom: 4px;
+    margin-left: 0px;
+    border:none;
+    text-indent: 7px;
+    background-color: #007BFF;
+    color: white;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 0.7px;
+}
+
+.serch{
+    text-indent: 17px;
+    margin-left: 50px;
+        
+}
+/*Containt section end*/
+
+/*secoecond_adsense code start*/
+ .second_adsense{
+        /*border: 1px dotted blue;*/
+        margin: 7px;
+        height: 140px;
+        width: 700px;
+        margin-left: 170px; 
+        margin-top: 20px; 
+}
+
+/* .second_adsense_code_div{
+        border: 1px dotted blue;
+        height: 140px;
+        width: 700px;
+        margin-left: 180px; 
+} */
+/*secoecond_adsense code end*/
+
+/*Admit Card , university results css start*/
+
+.Containt_third {
+        margin-top: 20px;
+        text-align: center;
+        /*border: 1px dotted black;*/
+        height: auto;
+        /* overflow: auto; */
+}
+
+.Containt_four {
+        margin-top:20px;
+        text-align: center;
+        /*border: 1px dotted black;*/
+        height: auto;
+        /* overflow: auto; */
+}
+
+/*admit, university results css End*/
+
+/*jobs search by months css start*/
+.jobs_by_months_container {
+         
+        margin: 0px;
+        margin-top: 25px;
+        text-align: center;
+       /* border: 1px dotted blue;*/
+}
+
+.jobs_by_months {
+        box-shadow: 0px 0px 3px;
+        padding: 5px;
+        margin: 0px;
+        margin-top: 20px;
+/*         border: 1px dotted blue; */
+        height: 120px;
+        text-shadow: 0px 0px 0px grey;
+        
+}
+
+.jobs_by_months_child_div {
+        text-shadow: 0px 0px 0px;
+        box-shadow: 0px 0px 3px;
+        margin: 25px;
+}
+.other_links_div_month {
+        background-color: #007BFF;
+        background-image: linear-gradient(to right, red,#007BFF);
+        width :1110px;
+        height: 50px;
+        text-align: center;
+        padding: 12px;
+        color: #FFFFFF;         
+}
+
+/*jobs search by months css end*/
+
+/*third Adsense css code start*/
+
+/* .third_adsense_container {
+        margin: 20px;
+} */
+
+.third_adsense {
+        border: 1px dotted blue;     
+
+}
+
+/*third Adsense css code end */
+
+/* STATE BY HINDI & CBSE RESULTS CSS COD START */
+.state_wise_ten_and_tweleve_class_results {
+        box-shadow: 0px 0px 6px;
+        margin-top:20px;
+        text-align: center;
+        height: 300px;
+        overflow: auto;
+}
+
+.uttar_and_cbse_result_container_div{
+        margin-bottom: 23px;
+        
+}
+/* STATE BY HINDI & CBSE RESULTS CSS COD END */
+
+
+/* ONLINE FORM & UNIVERSITY DATE SHEETS CSS CODE START */
+
+.online_form_submission_and-date_sheet {
+        
+    margin-top:20px;
+    text-align: center;
+   /* border: 1px dotted black; */
+    height: 450px;
+    /* overflow: auto; */
+}
+
+.online_form_submission {
+    
+    margin: 0px;
+    text-align: center;
+}
+/* ONLINE FORM & UNIVERSITY DATE SHEETS CSS CODE END */
+
+/*FOOTER CSS CODE START*/
+/* .custom_footer_div_class{
+        height: 60px;
+        padding: 14px;
+        color: white;
+        text-decoration: none;
+        
+} */
+.text-one li{
+        display: inline;
+        color : white;
+        text-decoration: none;
+        margin-left: 50px; 
+        text-decoration: none;
+        
+}
+.text-one a {
+        color:#FFFF;
+        margin: 0px;
+        color: white;
+        text-decoration: none;
+        
+}
+.text-one a:hover{
+        border: 1px solid #FFFF;
+}
+
+/*FOOTER CSS CODE END*/
+
+/* other hover and padding and other css code */
+.custom_nav_link_css:hover {
+        border: 1px solid #FFFF;
+        
+                   
+}
+
+.footer{
+    /*border-top: 1px solid green;*/
+    padding-top: 10px;
+    margin-top: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer div {
+    justify-content: space-around;
+}
+
+/* other hover and padding and other css code */
+
+/* index.html css end */
+
+/*media quriy start*/
+
+@media only screen and (max-width: 479px) {
+    .footer{
+        position: relative;
+        display: flex;
+        height: 80px;
+        padding-top: 30px;
+        justify-content: space-around;
+}
+
+    .serch{
+        text-indent: 17px;
+        margin-left: 4px;
+        
+    }
+
+    .job_searchBoxOne{
+        width: 120px;
+        margin-top: 5px;
+    }
+
+    .job_search{
+        margin-bottom: 4px;
+    }
+
+
+    .search_boxTwo {
+        margin-top: 5px;
+        margin-left: 2px;
+        width: 120px
+
+    }
+
+    .job_searchTwo {
+        height: 30px;
+        width: 30px;
+    }
+
+    .admit_searchBox {
+        width: 120px;
+    }
+
+    .University_searchBox {
+        margin-top:5px;
+        width: 120px;
+    }
+
+    .University_btnOne{
+        margin-bottom :4px;
+    }
+
+    .online_form_submission_and-date_sheet {
+        height: 700px;
+        overflow:hidden;
+
+}
+
+.footer a{
+    color: #FFFF;
+    font-size: 13px;
+    letter-spacing: 0.6px;
+}
+
+.Containt-first {
+    text-align: center;
+    font-size: 10px;
+}
+
+.Containt-second {
+    text-align: center;
+    font-size: 10px;
+}
+
+.Containt_third {
+    text-align: center;
+    font-size: 10px;
+}
+
+.Containt_four {
+    text-align: center;
+    font-size: 10px;
+}
+
+.online_form_submission_and-date_sheet {
+    text-align: center;
+    font-size: 10px;
+}
+
+.job_search{
+    font-size: 7px;
+}
+
+
+@media only screen and (min-width: 480px) {
+        .Containt-first {
+                text-align: center;
+                height: 230vh;
+        }
+        .Containt-second {
+                text-align: center;
+                height: 230vh;
+               
+        }
+        /* .search_box{
+                height: 7vh;
+        } */
+        .serch{
+                margin-top: 5px; 
+        }
+
+        .job_searchBoxOne {
+                margin:inherit;
+        }
+        .job_search {
+                margin-left: 3px;
+        }
+        .job_btn {
+                margin-top: 5px;
+                margin-bottom: 5px; 
+        }
+        .job_searchTwo{
+             margin-right: 0px;
+        }
+        .job_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px; 
+        }
+        .search_boxTwo{
+                margin-left:10px; 
+                margin-right: 40px;  
+                margin-top: 5px; 
+        }
+        .admit_searchBox {
+                /* margin-top:5px; */
+                margin: inherit;
+                margin-left:1px;
+        }
+        .admit_btnOne{
+                margin: inherit;
+        }
+        
+        .admit_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px; 
+        }
+        .University_searchBox{
+                margin: inherit;
+        }
+        .University_btnOne{
+                margin-left: 7px;
+        }
+
+        .University_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px; 
+        }
+        .OnlineForm_searchBox{
+                margin-top: 5px;
+        }
+        .OnlineForm_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px;
+        }
+        .OnlineForm_btnOne{
+                margin: inherit;
+                align-items: center;
+
+
+        }
+        .UniversityDateSheet_searchBox{
+                width: 10em;
+                margin-left:10px;
+        }
+        .UniversityDateSheet_btnOne{
+                margin-left:7px;
+                margin-top: 5px;
+                margin-bottom: 3px;
+        }
+        .UniversityDateSheet_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px;
+        }
+        .Footer_navbar{
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                /* min-height: 3vh; */
+                
+        }
+        .logo{
+                color: rgb(226, 226, 226);
+                text-transform: uppercase;
+                margin-left:0px; 
+        }
+        
+        .logo h4{
+                font-size: 15px;
+        }
+
+        .footer-nav-links {
+                display: flex;
+                justify-content: space-around;
+                list-style: none;
+                align-items: center;
+                
+        }
+        .footer-nav-links a{
+                letter-spacing: 1.5px;
+                margin: 5px;
+                width: 10%;
+                color: rgb(226, 226, 226);
+                text-decoration: none;
+        }
+}
+
+@media only screen and (min-width: 640px) {
+        .table thead tr {
+                font-size: 14px;; 
+                width: 50px;
+        }
+        
+        .Containt-first {
+                text-align: center;
+                height: 248vh;
+        }
+        .Containt-second {
+                text-align: center;
+                height: 240vh;
+               
+        }
+        .container-third{
+                height: 170vh;
+        }
+        .container-second{
+                height: 190vh;
+        }
+        .container-first{
+                height: 170vh;
+        }
+        /* .search_box{
+                height: 7vh;
+        } */
+        .serch{
+                margin-top: 5px; 
+        }
+
+        .job_searchBoxOne {
+                margin-top:5px;
+                margin-right: 40px;
+                margin-left: 40px; 
+                margin: inherit;
+        }
+        .job_search {
+                margin-left: 3px;
+        }
+        .job_btn {
+                margin-top: 5px;
+                margin-bottom: 5px; 
+        }
+        .job_searchTwo{
+             margin-right: 0px;
+        }
+        .job_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px; 
+        }
+        .search_boxTwo{
+                margin-left:10px; 
+                margin-right: 40px;  
+                margin-top: 5px;
+                margin: inherit; 
+        }
+        .admit_searchBox {
+                margin-top:5px;
+        }
+        .admit_btnOne{
+                margin-left: 7px;
+        }
+        
+        .admit_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px; 
+        }
+        .University_searchBox{
+                margin-top:5px;
+                margin-left: 9px;
+        }
+        .University_btnOne{
+                margin: inherit;
+        }
+        .jobs_by_months_container{
+                height: 111vh;
+        }
+        
+        .jobs_by_months{
+                height: 141px;
+                align-items: center; 
+        }
+
+        .University_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px; 
+        }
+        .OnlineForm_searchBox{
+                margin-top: 5px;
+                margin-right: 6px;
+                margin: inherit;
+        }
+        .OnlineForm_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px;
+        }
+        .OnlineForm_btnOne{
+
+        }
+        .UniversityDateSheet_searchBox{
+                width: 12em;
+        }
+        .UniversityDateSheet_btnOne{
+                margin-left:7px;
+        }
+        .UniversityDateSheet_btnTwo{
+                margin-top: 5px;
+                margin-bottom: 5px;
+        }
+        .Footer_navbar{
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                /* min-height: 3vh; */
+                
+        }
+        .logo{
+                color: rgb(226, 226, 226);
+                text-transform: uppercase;
+                margin-left:0px; 
+        }
+        
+        .logo h4{
+                font-size: 15px;
+        }
+
+        .footer-nav-links {
+                display: flex;
+                justify-content: space-around;
+                list-style: none;
+                align-items: center;
+                
+        }
+        .footer-nav-links a{
+                letter-spacing: 1.5px;
+                margin: 5px;
+                width: 10%;
+                color: rgb(226, 226, 226);
+                text-decoration: none;
+        }
+}
+
+@media only screen and (min-width: 768px) {
+        .search_box{
+                letter-spaceing:0.7px;
+        }
+        .search_boxTwo{
+                margin: inherit;
+        }
+        .job_searchTwo{
+                margin:inherit;
+        }
+        .University_searchBox{
+                margin: inherit;
+        }
+}
+@media only screen and (min-width: 992px) {
+        .search_box{
+                letter-spaceing:0.7px;
+        }
+        .search_boxTwo{
+                margin: inherit;
+        }
+        .job_searchTwo{
+                margin:inherit;
+        }
+        .University_searchBox{
+                margin: inherit;
+        }
+        .container-third{
+                height: 110vh;
+        }
+        .container-second{
+                height: 120vh;
+        }
+        .container-first{
+                height: 110vh;
+        }
+}
+@media only screen and (max-width: 600px) {
+        .third_adsense {
+          background-color: lightblue;
+        }
+}

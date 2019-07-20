@@ -1,0 +1,100 @@
+/* main containt css start */
+
+.custom_navbar_css{
+    box-shadow: 3px 1px 5px;
+}
+/* setting section css code start */
+
+.setting_div{
+    margin: 10px;
+    margin-top: 90px;
+}
+
+.setting_div ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+.setting_div ul li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.setting_div ul li a:hover {
+    background-color: #555;
+    color: white;
+  }
+/* setting section css code end */
+
+/* APPROVED REJECTED PENDDIING CSS START */
+
+.title_div{
+    margin-top: 100px;
+}
+
+.pendding {
+    margin-top: 100px;
+    margin-left: 30px;
+    border: 1px dotted;
+    height: 290px;
+    background-image: linear-gradient(to left,#007BFF,#FFFF);
+    box-shadow: 4px 1px 9px;    
+}
+
+
+/* APPROVED REJECTED PENDDIING CSS END */
+
+/*Second div css code start*/
+.second_div h2 {
+    margin-left: 70px; 
+    
+}
+.second_div {
+    height: 400px;
+    overflow:auto;
+}
+
+.revenue_table {
+    margin-top:30px;
+    margin-left: 220px;
+    height: 300px;
+}
+/*Second div css code end*/
+.custom_jumbotron {
+    height: 580px;
+}
+
+/* main containt css end */
+
+
+/*FOOTER CSS CODE START*/
+.custom_footer_div_class{
+    margin-top: 232px;
+    height: 40px;
+    padding: 5px;
+    color: white;
+    /* position: fixed; */
+}
+.text-one li{
+    display: inline;
+    color : white;
+    text-decoration: none;
+    display: inline-block;
+}
+.text-one a {
+    color:#FFFF;
+    margin: 0px;
+   margin-left: 100px;
+    position: relative;
+    float: right;
+    
+}
+
+
+
+/*FOOTER CSS CODE END*/

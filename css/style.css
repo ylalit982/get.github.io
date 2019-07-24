@@ -54,6 +54,19 @@ font-family: 'DM Serif Display', serif; */
         height: 130vh;
 }
 
+/*.Containt_row {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .Containt-first {
+        width: 235px;
+    }
+
+    .Containt-second {
+        width: 235px;
+    }
+*/
 
 .Containt_container {
         margin-top: 10px;
@@ -68,6 +81,10 @@ font-family: 'DM Serif Display', serif; */
        background-color: #007BFF;
         
 } */
+
+.search_box p {
+    font-size: 20px;
+}
 
 .Containt-first {
         text-align: center;
@@ -214,7 +231,7 @@ font-family: 'DM Serif Display', serif; */
     margin-top:20px;
     text-align: center;
    /* border: 1px dotted black; */
-    height: 450px;
+    height: auto;
     /* overflow: auto; */
 }
 
@@ -227,12 +244,14 @@ font-family: 'DM Serif Display', serif; */
 
 /*FOOTER CSS CODE START*/
 /* .custom_footer_div_class{
+        display: flex;
         height: 60px;
         padding: 14px;
         color: white;
         text-decoration: none;
+        justify-content: space-around;
         
-} */
+}*/
 .text-one li{
         display: inline;
         color : white;
@@ -263,6 +282,7 @@ font-family: 'DM Serif Display', serif; */
 
 .footer{
     /*border-top: 1px solid green;*/
+    border-top: 1px solid grey;
     padding-top: 10px;
     margin-top: 50px;
     height: 50px;
@@ -272,6 +292,15 @@ font-family: 'DM Serif Display', serif; */
 
 .footer div {
     justify-content: space-around;
+
+}
+
+.footer div a {
+    color: black;
+    border-left: 1px solid black;
+    padding: 7px;
+    background-color: lightgrey;
+    font-weight: bold; 
 }
 
 /* other hover and padding and other css code */
@@ -281,13 +310,34 @@ font-family: 'DM Serif Display', serif; */
 /*media quriy start*/
 
 @media only screen and (max-width: 479px) {
+
+    /*.Containt_row{
+        flex: 0;
+    }*/
+
+    .table thead tr th {
+        font-size: 15px;
+    }
+
+    .table thead tr td {
+        font-size: 13px;
+    }
+
+    .search_box p {
+        font-size: 22px;
+    }
+
+    .job_btn{
+        font-size: 6px;
+    }
+
     .footer{
         position: relative;
         display: flex;
         height: 80px;
         padding-top: 30px;
         justify-content: space-around;
-}
+    }
 
     .serch{
         text-indent: 17px;
@@ -296,38 +346,56 @@ font-family: 'DM Serif Display', serif; */
     }
 
     .job_searchBoxOne{
-        width: 120px;
-        margin-top: 5px;
+        width: 145px;
+        margin-top: 0px;
+        height: 26px;
     }
 
     .job_search{
         margin-bottom: 4px;
+       /* width: 60px;
+        height: 25px;*/
+        font-size: 5px;
+
     }
 
 
     .search_boxTwo {
         margin-top: 5px;
         margin-left: 2px;
-        width: 120px
+        width: 160px;
+        height:25px;
 
     }
 
-    .job_searchTwo {
+    /*.job_searchTwo {
         height: 30px;
         width: 30px;
-    }
+    }*/
 
     .admit_searchBox {
-        width: 120px;
+        width: 160px;
+        height: 27px;
     }
 
     .University_searchBox {
-        margin-top:5px;
-        width: 120px;
+        margin-top:0px;
+        width: 160px;
+        height: 27px;
     }
 
     .University_btnOne{
         margin-bottom :4px;
+    }
+
+    .OnlineForm_searchBox {
+        width: 160px;
+        height: 28px;
+    }
+
+    .UniversityDateSheet_searchBox{
+        width: 160px;
+        height: 28px;
     }
 
     .online_form_submission_and-date_sheet {
@@ -373,21 +441,26 @@ font-family: 'DM Serif Display', serif; */
 
 
 @media only screen and (min-width: 480px) {
-        .Containt-first {
-                text-align: center;
-                height: 230vh;
+
+    .search_box p {
+            font-size: 27px;
         }
-        .Containt-second {
-                text-align: center;
-                height: 230vh;
+
+     .Containt-first {
+        text-align: center;
+        height: 230vh;
+    }
+    .Containt-second {
+            text-align: center;
+            height: 230vh;
                
         }
-        /* .search_box{
-                height: 7vh;
-        } */
-        .serch{
-                margin-top: 5px; 
-        }
+    .search_box{
+        height: 7vh;
+    }
+    .serch{
+        margin-top: 5px; 
+    }
 
         .job_searchBoxOne {
                 margin:inherit;
@@ -448,6 +521,12 @@ font-family: 'DM Serif Display', serif; */
 
 
         }
+
+        .online_form_submission_and-date_sheet {
+            height: 20vh;
+        }
+
+
         .UniversityDateSheet_searchBox{
                 width: 10em;
                 margin-left:10px;
@@ -494,7 +573,22 @@ font-family: 'DM Serif Display', serif; */
         }
 }
 
+
+/*@media only screen and (min-width: 576px) {
+
+    .job_searchBoxOne {
+        width: 20px;
+    }
+
+}*/
+
+
 @media only screen and (min-width: 640px) {
+
+        .search_box p {
+            font-size: 19px;
+        }
+
         .table thead tr {
                 font-size: 14px;; 
                 width: 50px;
@@ -526,6 +620,7 @@ font-family: 'DM Serif Display', serif; */
         }
 
         .job_searchBoxOne {
+                width: 50px;
                 margin-top:5px;
                 margin-right: 40px;
                 margin-left: 40px; 
@@ -638,6 +733,7 @@ font-family: 'DM Serif Display', serif; */
 }
 
 @media only screen and (min-width: 768px) {
+       
         .search_box{
                 letter-spaceing:0.7px;
         }
@@ -673,9 +769,8 @@ font-family: 'DM Serif Display', serif; */
         .container-first{
                 height: 110vh;
         }
-}
-@media only screen and (max-width: 600px) {
-        .third_adsense {
-          background-color: lightblue;
+
+        .online_form_submission_and-date_sheet {
+            height: 20vh;
         }
 }
